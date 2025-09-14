@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "Fulilian.moc3",
 		"Textures": [
-			"Fulilian.4096/texture_00.png"
+			"Fulilian.4096/texture_00.webp"
 		],
 		"Physics": "Fulilian.physics3.json",
 		"DisplayInfo": "Fulilian.cdi3.json"
