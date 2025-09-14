@@ -1,12 +1,12 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "fll.moc3",
+		"Moc": "Fulilian.moc3",
 		"Textures": [
-			"fll.4096/texture_00.png"
+			"Fulilian.4096/texture_00.png"
 		],
-		"Physics": "fll.physics3.json",
-		"DisplayInfo": "fll.cdi3.json"
+		"Physics": "Fulilian.physics3.json",
+		"DisplayInfo": "Fulilian.cdi3.json"
 	},
 	"Groups": [
 		{

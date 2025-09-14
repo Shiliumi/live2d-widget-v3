@@ -1,0 +1,28 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Hutao.moc3",
+		"Textures": [
+			"Hutao.8192/texture_00.png",
+			"Hutao.8192/texture_01.png",
+			"Hutao.8192/texture_02.png"
+		],
+		"Physics": "Hutao.physics3.json",
+		"DisplayInfo": "Hutao.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+} 
