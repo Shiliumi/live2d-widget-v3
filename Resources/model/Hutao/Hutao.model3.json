@@ -3,9 +3,9 @@
 	"FileReferences": {
 		"Moc": "Hutao.moc3",
 		"Textures": [
-			"Hutao.8192/texture_00.png",
-			"Hutao.8192/texture_01.png",
-			"Hutao.8192/texture_02.png"
+			"Hutao.8192/texture_00.webp",
+			"Hutao.8192/texture_01.webp",
+			"Hutao.8192/texture_02.webp"
 		],
 		"Physics": "Hutao.physics3.json",
 		"DisplayInfo": "Hutao.cdi3.json"
